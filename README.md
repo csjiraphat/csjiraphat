@@ -21,7 +21,11 @@
   </samp>
 </p>
 
-<p align="center"> 
+<p align="center">
+  <samp>
+    Socials
+    <br>
+  </samp>
   <a href="https://www.instagram.com/dn_jiraphat/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="jiraphat" />
   </a> 
