@@ -7,7 +7,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
+        <samp> Hey There!, I am
                 <b><a>Jiraphat Kusawadee</a></b>
         </samp>
 </h3>
