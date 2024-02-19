@@ -72,7 +72,7 @@
 </p>
 
 <br/>
-<h3 align="center">Top Open Source</h3>
+<h3 align="center">### Top Open Source</h3>
 
 <p align="center">
     <a href="https://github.com/csjiraphat/portfolio-website" style="margin: 0 10px;">
