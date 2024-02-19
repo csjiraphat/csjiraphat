@@ -1,13 +1,14 @@
-
+<!--
 <h2 align="center">
   สวัสดี ยินดีต้อนรับเข้าสู่หน้าโปรไฟล์ของ Jiraphat
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
+-->
 
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Al Siam</a></b>
+                <b><a>Jiraphat Kusawadee</a></b>
         </samp>
 </h3>
 
