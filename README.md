@@ -7,9 +7,9 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <h3> Hey There!, I am
+        <samp> Hey There!, I am
                 <b><a>Jiraphat Kusawadee</a></b>
-        </h3>
+        </samp>
 </h3>
 
 
@@ -21,19 +21,19 @@
   </samp>
 </p>
 
-<p align="center">
-  <h3>
+<h3 align="center">
+  <samp>
     Socials
     <br>
     <br>
-  </h3>
+  </samp>
   <a href="https://www.instagram.com/dn_jiraphat/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="jiraphat" />
   </a> 
   <a href="https://www.facebook.com/deknoyruzi" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="jiraphat"  />
   </a> 
-</p>
+</h3>
 <br />
 
 
