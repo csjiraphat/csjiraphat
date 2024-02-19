@@ -74,31 +74,23 @@
 <br/>
 <h3 align="center">Top Open Source</h3>
 
-<div style="display: flex; justify-content: center;">
-        <div style="flex: 1; padding: 10px;">
-            <a href="https://github.com/csjiraphat/portfolio-website">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=csjiraphat&repo=portfolio-website&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF">
-            </a>
-        </div>
-        <div style="flex: 1; padding: 10px;">
-            <a href="https://github.com/csjiraphat/REACT-search_food">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=csjiraphat&repo=REACT-search_food&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF">
-            </a>
-        </div>
-    </div>
-    <div style="display: flex; justify-content: center;">
-        <div style="flex: 1; padding: 10px;">
-            <a href="https://github.com/csjiraphat/Flutter_MN">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=csjiraphat&repo=Flutter_MN&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF">
-            </a>
-        </div>
-        <div style="flex: 1; padding: 10px;">
-            <a href="https://github.com/csjiraphat/weather_app">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=csjiraphat&repo=weather_app&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF">
-            </a>
-        </div>
-    </div>
+<p align="center">
+    <a href="https://github.com/csjiraphat/portfolio-website">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=csjiraphat&repo=portfolio-website&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" style="margin: 0 10px;">
+    </a>
+    <a href="https://github.com/csjiraphat/REACT-search_food">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=csjiraphat&repo=REACT-search_food&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" style="margin: 0 10px;">
+    </a>
+</p>
 
+<p align="center">
+    <a href="https://github.com/csjiraphat/Flutter_MN">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=csjiraphat&repo=Flutter_MN&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" style="margin: 0 10px;">
+    </a>
+    <a href="https://github.com/csjiraphat/weather_app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=csjiraphat&repo=weather_app&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" style="margin: 0 10px;">
+    </a>
+</p>
 
 
 
