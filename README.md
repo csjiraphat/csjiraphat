@@ -15,7 +15,7 @@
 
 <p align="center"> 
   <samp>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am a Computer Science students <b>Chiang Rai Rajabhat</b> 」
     <br>
     <br>
   </samp>
