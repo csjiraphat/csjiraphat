@@ -22,11 +22,11 @@
 </p>
 
 <p align="center">
-  <samp>
+  <h3>
     Socials
     <br>
     <br>
-  </samp>
+  </h3>
   <a href="https://www.instagram.com/dn_jiraphat/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="jiraphat" />
   </a> 
